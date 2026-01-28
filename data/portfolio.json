@@ -1,20 +1,70 @@
 [
+
     {
-        "image": "image1.png",
-        "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "image": "html-css.jpg",
+        "title": "HTML & CSS – Intégration responsive",
+        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS",
+        "link": "https://github.com/Kaorilan/P2_site_Riding_Citites_HTML5.git"
     },
     {
-        "image": "image2.png",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "image": "booki.jpg",
+        "title": "Booki – Site de réservation",
+        "text": "Intégration d'une maquette Figma en HTML/CSS responsive. Focus sur Flexbox, media queries et accessibilité.",
+        "link": "https://github.com/Kaorilan/P3_Booki_starter_HTML_CSS.git"
     },
     {
-        "image": "image3.png",
-        "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "image": "",
+        "title": "JSE Avocats – Premier pas en JS",
+        "text": "Introduction à JavaScript : manipulation du DOM, événements, formulaires interactifs et premiers scripts dynamiques pour un site d'avocats.",
+        "link": "https://animated-rodent-aa3.notion.site/217be53d25ce80f6ab7af5d92763d295?v=217be53d25ce81418fcd000c78371ccd"
+    },
+    {
+        "image": "724events.jpg",
+        "title": "724_Events",
+        "text": "Débuggage et optimisation d'un site d'agence événementielle : correction de bugs JS/CSS, tests unitaires, responsive et accessibilité. Utilisation des DevTools et Jest.",
+        "link": "https://github.com/Kaorilan/P5_724_Events_Campagne_de_test.git"
+    },
+    {
+        "image": "print-it.jpg",
+        "title": "Print It – Carrousel interactif",
+        "text": "Ajout d'un carrousel dynamique (diaporama) en JavaScript pur : navigation flèches/clavier, autoplay optionnel, gestion des événements et modularité du code.",
+        "link": "P6_Print_It_WebSite_JS.github.io"
+    },
+    {
+        "image": "sophie-bluel.jpg",
+        "title": "Portfolio Sophie Bluel – Site dynamique",
+        "text": "Développement front-end dynamique : galerie de photos filtrable, modale d'ajout/suppression, authentification admin via API, gestion des requêtes asynchrones (fetch).",
+        "link": "https://github.com/Kaorilan/P7_Portfolio_architecte_sophie_bluel_JS_web_dynamique.git"
+    },
+    {
+        "image": "KASA.jpg",
+        "title": "Kasa – Application React",
+        "text": "Création d'une application React single-page : composants réutilisables, gestion d'état (useState/useEffect), routing (React Router), API JSON et design responsive.",
+        "link": "https://github.com/Kaorilan/P8_Kasa_API_React.git"
+    },
+    {
+        "image": "qwenta.jpg",
+        "title": "Qwenta MenuMaker – Planification projet",
+        "text": "Planification complète d'un projet web (Menu Maker) : spécifications techniques, Kanban, veille technologique, diagrammes (use case, wireframes), gestion agile et communication client.",
+        "link": "https://github.com/Kaorilan/P9_Qwenta_MenuMaker_Planification.git"
+    },
+    {
+        "image": "ecoBlissBath.jpg",
+        "title": "EcoBlissBath – Automatisation & tests",
+        "text": "Automatisation de tests et stratégie qualité : écriture de scénarios de test, automatisation (Cypress ou équivalent), rapport de bugs et amélioration continue du produit.",
+        "link": "https://github.com/Kaorilan/P10_EcoBlissBath_Automatisation.git"
+    },
+    {
+        "image": "tomsen.jpg",
+        "title": "Tomsem – Stratégie de tests",
+        "text": "Conception d'une stratégie de tests complète : plan de test, scénarios manuels/automatisés, outils de reporting, priorisation des tests et couverture fonctionnelle/non-fonctionnelle.",
+        "link": "https://github.com/Kaorilan/P11_Tomsem_Concevoir_une_strategie_de_test.git"
+    },
+    {
+        "image": "portfolio.jpg",
+        "title": "Portfolio Personnel",
+        "text": "Création et optimisation de mon propre portfolio : correction de bugs, accessibilité (WCAG), SEO, performance (Lighthouse), personnalisation et déploiement GitHub Pages.",
+        "link": "https://github.com/Kaorilan/P12_Portfolio_master.git"
     }
+
 ]
