@@ -1,91 +1,70 @@
 [
-   
-    {
-        "title": "Portfolio Sophie Bluel – Architecte",
-        "text": "Site dynamique avec JavaScript : login admin, galerie filtrable, modale d'ajout photo. Appel API.",
-        "image": "sophie-bluel.jpg",
-        "link": "https://github.com/Kaorilan/Laurie_Pfeffer_Portfolio_architecte_sophie_bluel.git"
-        
-    },
+
     {
         "image": "html-css.jpg",
-        "title": "HTML - CSS",
+        "title": "HTML & CSS – Intégration responsive",
         "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS",
         "link": "https://github.com/Kaorilan/P2_site_Riding_Citites_HTML5.git"
     },
     {
         "image": "booki.jpg",
-        "title": "Projet Booki – Booking-like",
+        "title": "Booki – Site de réservation",
         "text": "Intégration d'une maquette Figma en HTML/CSS responsive. Focus sur Flexbox, media queries et accessibilité.",
         "link": "https://github.com/Kaorilan/P3_Booki_starter_HTML_CSS.git"
     },
     {
         "image": "",
-        "title": "JSE_Avocats_Premier_pas_de_test",
-        "text": "",
+        "title": "JSE Avocats – Premier pas en JS",
+        "text": "Introduction à JavaScript : manipulation du DOM, événements, formulaires interactifs et premiers scripts dynamiques pour un site d'avocats.",
         "link": "https://animated-rodent-aa3.notion.site/217be53d25ce80f6ab7af5d92763d295?v=217be53d25ce81418fcd000c78371ccd"
     },
     {
-        "image": "",
+        "image": "724events.jpg",
         "title": "724_Events",
-        "text": "",
+        "text": "Débuggage et optimisation d'un site d'agence événementielle : correction de bugs JS/CSS, tests unitaires, responsive et accessibilité. Utilisation des DevTools et Jest.",
         "link": "https://github.com/Kaorilan/P5_724_Events_Campagne_de_test.git"
     },
     {
-        "image": "",
-        "title": "Print_It",
-        "text": "",
+        "image": "print-it.jpg",
+        "title": "Print It – Carrousel interactif",
+        "text": "Ajout d'un carrousel dynamique (diaporama) en JavaScript pur : navigation flèches/clavier, autoplay optionnel, gestion des événements et modularité du code.",
         "link": "P6_Print_It_WebSite_JS.github.io"
     },
     {
-        "image": "",
-        "title": "Portfolio_architecte_sophie_bluel_JS_web_dynamique",
-        "text": "",
+        "image": "sophie-bluel.jpg",
+        "title": "Portfolio Sophie Bluel – Site dynamique",
+        "text": "Développement front-end dynamique : galerie de photos filtrable, modale d'ajout/suppression, authentification admin via API, gestion des requêtes asynchrones (fetch).",
         "link": "https://github.com/Kaorilan/P7_Portfolio_architecte_sophie_bluel_JS_web_dynamique.git"
     },
     {
-        "image": "react.jpg",
-        "title": "Kasa_API_React",
-        "text": "Création d’applications React, création de composants et manipulation de leur état",
+        "image": "KASA.jpg",
+        "title": "Kasa – Application React",
+        "text": "Création d'une application React single-page : composants réutilisables, gestion d'état (useState/useEffect), routing (React Router), API JSON et design responsive.",
         "link": "https://github.com/Kaorilan/P8_Kasa_API_React.git"
     },
     {
-        "image": "",
-        "title": "Qwenta_MenuMaker_Planification",
-        "text": "",
+        "image": "qwenta.jpg",
+        "title": "Qwenta MenuMaker – Planification projet",
+        "text": "Planification complète d'un projet web (Menu Maker) : spécifications techniques, Kanban, veille technologique, diagrammes (use case, wireframes), gestion agile et communication client.",
         "link": "https://github.com/Kaorilan/P9_Qwenta_MenuMaker_Planification.git"
     },
     {
-        "image": "",
-        "title": "EcoBlissBath_Automatisation",
-        "text": "",
+        "image": "ecoBlissBath.jpg",
+        "title": "EcoBlissBath – Automatisation & tests",
+        "text": "Automatisation de tests et stratégie qualité : écriture de scénarios de test, automatisation (Cypress ou équivalent), rapport de bugs et amélioration continue du produit.",
         "link": "https://github.com/Kaorilan/P10_EcoBlissBath_Automatisation.git"
     },
     {
-        "image": "",
-        "title": "Tomsem_Concevoir_une_strategie_de_test",
-        "text": "",
+        "image": "tomsen.jpg",
+        "title": "Tomsem – Stratégie de tests",
+        "text": "Conception d'une stratégie de tests complète : plan de test, scénarios manuels/automatisés, outils de reporting, priorisation des tests et couverture fonctionnelle/non-fonctionnelle.",
         "link": "https://github.com/Kaorilan/P11_Tomsem_Concevoir_une_strategie_de_test.git"
     },
     {
-        "image": "",
-        "title": "Portfolio_master",
-        "text": "",
+        "image": "portfolio.jpg",
+        "title": "Portfolio Personnel",
+        "text": "Création et optimisation de mon propre portfolio : correction de bugs, accessibilité (WCAG), SEO, performance (Lighthouse), personnalisation et déploiement GitHub Pages.",
         "link": "https://github.com/Kaorilan/P12_Portfolio_master.git"
-    },
-    {
-        "image": "gestion-de-projet.png",
-        "title": "Gestion de projet",
-        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet"
-    },
-    {
-        "image": "optimisation-et-debug.png",
-        "title": "Optimisation et debug",
-        "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne"
-    },
-    {
-        "image": "test.png",
-        "title": "Test",
-        "title ": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
     }
+
 ]
