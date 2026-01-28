@@ -1,5 +1,17 @@
 [
     {
+        "title": "Projet Booki – Booking-like",
+        "text": "Intégration d'une maquette Figma en HTML/CSS responsive. Focus sur Flexbox, media queries et accessibilité.",
+        "image": "booki.jpg",
+        "link": "https://github.com/ton-pseudo/booki"
+    }
+    {
+        "title": "Portfolio Sophie Bluel – Architecte",
+        "text": "Site dynamique avec JavaScript : login admin, galerie filtrable, modale d'ajout photo. Appel API.",
+        "image": "sophie-bluel.jpg",
+        "link": "https://github.com/Kaorilan/Laurie_Pfeffer_Portfolio_architecte_sophie_bluel.git"
+    }
+    {
         "image": "html-css.jpg",
         "title": "HTML - CSS",
         "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
@@ -29,4 +41,14 @@
         "title": "Test",
         "title ": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
     }
+]
+
+
+[
+  {
+    
+  },
+  {
+    
+  }
 ]
