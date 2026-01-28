@@ -1,41 +1,36 @@
 [
   {
-    "image": "html.png",
-    "title": "HTML5 sémantique",
-    "text": "Structure claire et accessible pour tous les projets (P2 à P12)"
+    "image": "html-css.jpg",
+    "title": "HTML5 sémantique, CSS3 avancé",
+    "text": "Structure claire et accessible pour tous les projets (P2 à P12) et Flexbox, Grid, animations, responsive mobile-first (P2, P3, P7, P8)"
   },
   {
-    "image": "css.png",
-    "title": "CSS3 avancé",
-    "text": "Flexbox, Grid, animations, responsive mobile-first (P2, P3, P7, P8)"
-  },
-  {
-    "image": "accessibility.png",
+    "image": "WCAG.png",
     "title": "Accessibilité WCAG",
     "text": "Contrastes, alt texts, navigation clavier (P3, P5, P7, P12)"
   },
   {
-    "image": "javascript.png",
+    "image": "js.jpg",
     "title": "JavaScript",
     "text": "DOM, événements, fetch API, modales dynamiques (P6, P7)"
   },
   {
-    "image": "react.png",
+    "image": "react.jpg",
     "title": "React",
     "text": "Composants, état, routing, hooks (P8 – Kasa)"
   },
   {
-    "image": "git.png",
+    "image": "git_and_github_logo.png",
     "title": "Git & GitHub",
     "text": "Versioning, branches, collaboration sur tous les projets"
   },
   {
-    "image": "testing.png",
+    "image": "Cypress.png",
     "title": "Tests & Débogage",
     "text": "Manuels, automatisation Cypress, stratégie, non-régression (P5, P10, P11)"
   },
   {
-    "image": "agile.png",
+    "image": "agile.jpg",
     "title": "Méthodes Agiles",
     "text": "Kanban, planification, specs techniques (P9, P11)"
   },
@@ -45,7 +40,7 @@
     "text": "Maquettes vers code pixel-perfect (P2, P3, P7)"
   },
   {
-    "image": "seo.png",
+    "image": "seo.jpg",
     "title": "SEO & Performance",
     "text": "Optimisations Lighthouse, meta, lazy loading (P12)"
   }
