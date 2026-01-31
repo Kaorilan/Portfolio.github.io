@@ -44,6 +44,12 @@ function createSkillsFromJSON() {
                 `;
                 container.appendChild(col);
             });
+
+            // IMPORTANT : ajoute la dernière ligne même si elle contient moins de 3 cartes
+            if (row.children.length > 0) {
+                container.appendChild(row);
+            }
+            
         })
         .catch(err => console.error("Erreur chargement skills.json", err));
 }
@@ -71,6 +77,12 @@ function createPortfolioFromJSON() {
                 `;
                 container.appendChild(col);
             });
+
+            // IMPORTANT : ajoute la dernière ligne même si elle contient moins de 3 cartes
+            if (row.children.length > 0) {
+                container.appendChild(row);
+            }
+
         })
         .catch(err => console.error("Erreur chargement portfolio.json", err));
 }
