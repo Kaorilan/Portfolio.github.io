@@ -51,13 +51,13 @@
     {
         "image": "logo_EcoBlissBath.png",
         "title": "EcoBlissBath – Automatisation & tests",
-        "text": "Automatisation de tests et stratégie qualité : écriture de scénarios de test, automatisation (Cypress ou équivalent), rapport de bugs et amélioration continue du produit.",
+        "text": "Automatisation de tests et stratégie qualité : écriture de scénarios de test, automatisation Cypress, rapport de bugs et amélioration continue du produit.",
         "link": "https://github.com/Kaorilan/P10_EcoBlissBath_Automatisation.git"
     },
     {
         "image": "Logo_Tomsen.png",
         "title": "Tomsem – Stratégie de tests",
-        "text": "Conception d'une stratégie de tests complète : plan de test, scénarios manuels/automatisés, outils de reporting, priorisation des tests et couverture fonctionnelle/non-fonctionnelle.",
+        "text": "Conception d'une stratégie de tests complète : stratégie de test, revue d'exigence, cahier de recette, scénarios manuels/automatisés, priorisation des tests et couverture fonctionnelle/non-fonctionnelle.",
         "link": "https://github.com/Kaorilan/P11_Tomsem_Concevoir_une_strategie_de_test.git"
     },
     {
