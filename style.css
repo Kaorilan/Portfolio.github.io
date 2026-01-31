@@ -81,6 +81,7 @@ h2::after {
 .hero_title {
     font-size: 4.5rem;
     padding-bottom: 30px;
+    color: red;
 }
 
 .hero_title::after{
